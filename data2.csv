@@ -1,9 +1,9 @@
-"DOM,gender,total"
-"Computer Science,M,194703"
-"Data Engineering,M,47039,"
-"Software Engineering,M,29902"
-"Theory,M,51056"
-"Computer Science,F,54770"
-"Data Engineering,F,13300"
-"Software Engineering,F,7409"
-"Theory,F,8331"
+"","DOM","gender","total"
+"1","CS","M",194703
+"2","DE","M",47039
+"3","SE","M",29902
+"4","TH","M",51056
+"5","CS","F",54770
+"6","DE","F",13300
+"7","SE","F",7409
+"8","TH","F",8331
